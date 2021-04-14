@@ -1,1 +1,1 @@
-Config file is now modified
+This is straight in >Config
